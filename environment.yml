@@ -1,0 +1,8 @@
+name: atgrd-tool
+channels:
+  - javascript
+dependencies:
+  - python=3.7.4
+  - flask
+  - pip:
+    - Flask-Testing
